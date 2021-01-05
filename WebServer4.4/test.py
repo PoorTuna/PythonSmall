@@ -1,0 +1,1 @@
+print "/calculate-next" in "/calculate-next?num=4"
